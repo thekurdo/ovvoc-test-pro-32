@@ -1,0 +1,12 @@
+{
+  "name": "ovvoc-test-pro-32",
+  "version": "1.0.0",
+  "description": "Data processing utilities with Jest 28 test suite",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/jest-config.test.js"
+  },
+  "devDependencies": {
+    "jest": "28.1.3"
+  }
+}
